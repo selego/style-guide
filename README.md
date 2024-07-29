@@ -16,3 +16,17 @@ All Selego developers working on 0 to 1 projects or scale-ups.
 
 ### Scope
 This guide covers repository structure, branching strategy, commit messages, pull requests, code reviews, coding standards, issue tracking, documentation, automation, security, and best practices, specifically tailored for MERN stack, React Native. 
+
+## Table of Contents
+1. [Repository Structure](#repository-structure)
+2. [Branching Strategy](#branching-strategy)
+3. [Commit Messages](#commit-messages)
+4. [Pull Requests](#pull-requests)
+5. [Code Reviews](#code-reviews)
+6. [Coding Standards](#coding-standards)
+7. [Issue Tracking](#issue-tracking)
+8. [Documentation](#documentation)
+9. [Automation and CI/CD](#automation-and-cicd)
+10. [Security](#security)
+11. [Best Practices](#best-practices)
+12. [Continuous Improvement](#continuous-improvement)
