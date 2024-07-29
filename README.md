@@ -10,7 +10,7 @@ To establish a consistent coding style and workflow for all projects, making col
 - **Consistency:** Code should look like it was written by a single person.
 - **Quality:** It's better to be consistently BAD than non-consistently GOOD.
 - **Guidelines:** The whitepaper is OUR style guide. We should FOLLOW it. Simple as that.
-- **Adaptation:** If you disagree with something in the whitepaper, write a message in #whitepaper channel in slack. 
+- **Adaptation:** If you disagree with something in the whitepaper, write a message in [whitepaper](#) channel in slack. 
 
 ### Audience
 All Selego developers working on 0 to 1 projects or scale-ups.
