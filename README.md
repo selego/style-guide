@@ -29,4 +29,3 @@ This guide covers repository structure, branching strategy, commit messages, pul
 9. [Startup Toolkit](./startup-toolkit/)
 10. [Security](./security/)
 11. [Documentation](./documentation/)
-12. [Continuous Improvement](./continuous-improvement/)
